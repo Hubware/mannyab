@@ -21,5 +21,5 @@ app.get('/mensajes', function (req, res) {
     res.send('Tu mensaje fue: ' + req.params.mensaje);
 });
 
-app.listen(80);
+app.listen(3000);
 console.log('app working');
