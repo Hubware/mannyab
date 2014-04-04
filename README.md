@@ -42,7 +42,7 @@ En esta prueba de conceptos se estan utilizando cosas como
   Por ahora tengo un dyno y es donde tengo ejecutando la app de node.
 </p>
 <br>
-<h3>Sugerencias con Heroku</h3>
+<h3>Cosas que hay que saber en Heroku</h3>
 <p>
   En heroku se pueden crear apps las cuales las liga a un repositorio propio de heroku al parecer los unicos repos autorizados para poder realizar un deploy a la plataforma (talvez se pueda utilizar github o bitbucket en la premium o de paga). Cada instancia de tu aplicacion corre bajo un dyno. Entre mas dynos mas usuarios podra soportar tu app. Asi que solo podras ejecutar un dyno (una aplicacion) ya que despues de ese te empiezan a cobrar.
 </p>
