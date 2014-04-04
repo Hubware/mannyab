@@ -15,7 +15,7 @@ En esta prueba de conceptos se estan utilizando cosas como
   </li>
 </ul>
  
-<h2>Por que elegi codebox?</h2>
+<h2>Por que codebox?</h2>
 <p>
   Bueno tengo corriendo windows en la maquina del trabajo asi que code box trabaja sobre un hambiente linux (ubuntu) y lo mejor es en linea asi que desde el browser tengo linea de comandos y todo el poder de la misma sin sobrecargar mi maquina host con una maquina virtual, por otro lado una VM no era una opcion dado que win8 es medio malo para eso. Con lo cual este cloud IDE me biene de perlas. 
 </p>
