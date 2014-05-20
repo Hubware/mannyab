@@ -60,4 +60,6 @@ En esta prueba de conceptos se estan utilizando cosas como
 <li>Estoy aprendiendo web, asi que me intereza saber en que me puede servir para la web</li>
 <li>Sistema de plantillas basadas en node</li>
 <li>No menos importante pero quiero hacer plugins(o paquetes node)</li>
+<li>Notificaciones realtime (utilizando websockets) en especial utilizando <a href="http://socket.io/">Socket.IO</a></li>
+<li>Seguir practicando <a href="http://backbonejs.org/">Backbone.js</a></li>
 </ol>
