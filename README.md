@@ -53,4 +53,11 @@ En esta prueba de conceptos se estan utilizando cosas como
   Yo te recomiendo que todos los cambios los realices en el repo de github, tus pruebas las realices en codebox y una vez probado el codigo puedas hacer el deploy a heroku.
 </p>
 ====
-<h3>Cosas que hay que saber en Heroku</h3>
+<h3>¿Que deseo hacer aqui?</h3>
+<p>Bueno una de las principales cosas es:</p>
+<ol>
+<li>Aprender node (ya se javascript) sin embargo, ese es el lenguaje hay que ver que da node</li>
+<li>Estoy aprendiendo web, asi que me intereza saber en que me puede servir para la web</li>
+<li>Sistema de plantillas basadas en node</li>
+<li>No menos importante pero quiero hacer plugins(o paquetes node)</li>
+</ol>
