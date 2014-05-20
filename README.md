@@ -52,3 +52,5 @@ En esta prueba de conceptos se estan utilizando cosas como
 <p>
   Yo te recomiendo que todos los cambios los realices en el repo de github, tus pruebas las realices en codebox y una vez probado el codigo puedas hacer el deploy a heroku.
 </p>
+====
+<h3>Cosas que hay que saber en Heroku</h3>
